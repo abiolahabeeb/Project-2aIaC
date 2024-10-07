@@ -14,3 +14,5 @@ Use Terraform to provision and manage AWS S3 and CloudFront
 - Run `terraform plan` to plan your infrastructure. And
 - Run `terraform apply` to apply your configuration
 - Run `terraform destroy` to destroy once you're done with everything.
+
+## Code run successfully
